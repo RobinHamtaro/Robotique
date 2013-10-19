@@ -1,26 +1,26 @@
 //Project created by Proux Alexandre and Beilvert Robin
-//The aim of this project is to control a robot arm manually or automatically. Voila.
+//The aim of this project is to control a robot arm manually or automatically.
 
 
 
 
 
-int button1=0; // axe z1
-int button2=0;
+int button11=0; // axe z1
+int button12=0;
 
-int button3=0; // axe y1
-int button4=0;
+int button21=0; // axe y1
+int button22=0;
 
-int button5=0;// axe y2
-int button6=0;
+int button31=0;// axe y2
+int button32=0;
 
-int button7=0;// axe z2
-int button8=0;
+int button41=0;// axe z2
+int button42=0;
 
-int button9=0;// axe y3
-int button10=0;
+int button51=0;// axe y3
+int button52=0;
 
-int capteur0,capteur1,capteur2,capteur3,capteur4; // 5 capteurs
+int capteur1,capteur2,capteur3,capteur4,capteur5; // 5 capteurs
 
 void setup ()
 {
