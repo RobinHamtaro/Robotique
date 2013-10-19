@@ -1,5 +1,5 @@
 //Project created by Proux Alexandre and Beilvert Robin
-//The aim of this project is to control a robot arm manually or automatically.
+//The aim of this project is to control a robot arm manually or automatically. Voila.
 
 
 
